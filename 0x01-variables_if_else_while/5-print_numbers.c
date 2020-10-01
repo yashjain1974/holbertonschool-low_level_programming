@@ -1,7 +1,7 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
-*Main - Entry point
-*Return: numbers
+* main - Entry point
+* Return: numbers
 *
 */
 int main(void)
