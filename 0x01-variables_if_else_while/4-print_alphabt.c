@@ -1,9 +1,9 @@
-#include<stdio.h>
-#include<stdlib.h>
+#include <stdio.h>
+#include <stdlib.h>
 /**
-*Main - Entry Point
+* main - Entry Point
 *
-*Return: Alphabet without q and e
+* Return: Alphabet without q and e
 */
 int main(void)
 {
