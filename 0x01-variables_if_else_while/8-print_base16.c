@@ -1,8 +1,8 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
-*Main - entry point
+* main - entry point
 *
-*Return: Alphabet returns
+* Return: Alphabet returns
 */
 int main(void)
 {
@@ -14,7 +14,7 @@ putchar(c + 48);
 do {
 for (c = 0; c <= 5; c++)
 putchar(c + 97);
-} while (c < 5);
+} while (c > 102);
 putchar('\n');
 return (0);
 }
