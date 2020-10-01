@@ -1,8 +1,8 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
-*Main - entry point
+* main - entry point
 *
-*Return: Alphabet returns
+* Return: Alphabet returns
 */
 int main(void)
 {
