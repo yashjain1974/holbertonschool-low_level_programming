@@ -1,8 +1,8 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
-*Main - entry point
+* main - entry point
 *
-*Return: 0
+* Return: 0
 */
 int main(void)
 {
@@ -15,7 +15,8 @@ if (c != 9)
 {
 putchar(',');
 putchar(' ');
-}}
+}
+}
 } while (c < 9);
 putchar('\n');
 return (0);
